@@ -28,3 +28,36 @@ This project is developed as a **mini project** to practice **core Java concepts
 
 
 ## 📂 Project Structure
+com.student.management
+│
+├── Student.java // Model class
+├── StudentService.java // Business logic (CRUD operations)
+└── Main.java // Entry point & menu
+
+
+
+
+## How to Run the Project
+1. Clone the repository from GitHub  
+2. Open the project in **Eclipse IDE**  
+3. Navigate to `Main.java`  
+4. Right-click → **Run As → Java Application**  
+5. Use the menu options in the console
+
+---
+
+## Learning Outcomes
+- Understanding of CRUD operations
+- Practical use of ArrayList and Iterator
+- Improved knowledge of Java OOP principles
+- Experience with GitHub and project documentation
+
+---
+
+##  Author
+**Ashok Kumar**
+
+---
+
+##  Note
+This project is intended for learning and academic purposes.
